@@ -2,8 +2,6 @@
 
 A web-based sentiment analysis app that classifies IMDB movie reviews as **positive** or **negative** using a Recurrent Neural Network (RNN). The model is trained on the IMDB dataset and deployed using **Streamlit**.
 
-![IMDB Sentiment Banner](https://user-images.githubusercontent.com/your-banner-placeholder) <!-- optional image banner -->
-
 ---
 
 ## 🚀 Features
@@ -85,12 +83,6 @@ Confidence: 0.87
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or pull requests for improvements.
-
----
-
-## 📜 License
-
-MIT License. See `LICENSE` file for details.
 
 ---
 
