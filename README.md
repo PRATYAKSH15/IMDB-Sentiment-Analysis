@@ -19,7 +19,7 @@ A web-based sentiment analysis app that classifies IMDB movie reviews as **posit
 - **Architecture:** Simple RNN with ReLU activation
 - **Input:** Tokenized and padded text reviews
 - **Output:** Sigmoid score indicating review sentiment
-- **Training Dataset:** [IMDB Movie Review Dataset (50k reviews)](https://ai.stanford.edu/~amaas/data/sentiment/)
+- **Training Dataset:** [IMDB Movie Review Dataset]([https://ai.stanford.edu/~amaas/data/sentiment/](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/imdb))
 
 ---
 
